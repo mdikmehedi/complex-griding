@@ -1,0 +1,14 @@
+.header, .hero, .body, .bar, .six, .footer{
+	background-color: pink;
+	margin-bottom: 10px;
+}
+.bg{
+	background-color: blue;
+	min-height: 80px;
+	margin-bottom: 10px;
+
+}
+.red{
+	background-color: red;
+	min-height: 80px;
+}
